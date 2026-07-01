@@ -6,7 +6,7 @@ Enter median income: 5,
 Enter total rooms: 20, 
 Enter total bedrooms: 4, 
 Enter house median age: 10, 
-output: 
+OUTPUT: 
 Accuracy: 0.6210907494093486
 203627.515 (predicted price)
 Write your asking price: 200000
